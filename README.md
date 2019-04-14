@@ -1,0 +1,2 @@
+# bylaws
+Bylaws for chatresearch
